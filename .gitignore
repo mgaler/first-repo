@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # Ignore all SQLite database
 db/*.sqlite3
+=======
+#Ignore all Sqlite3 databases
+db/*sqlite3
+>>>>>>> 5a7752792ba1d3fbfa880706da8de8d719271cb0
